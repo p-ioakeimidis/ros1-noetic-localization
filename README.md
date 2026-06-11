@@ -83,10 +83,6 @@ roslaunch global_localization global_ekf.launch
 Open RViz to visualize the robot pose, transforms, and localization results.
 
 
-## Map
-
-The repository includes a pre-generated occupancy grid map (`my_map`) that can be used for global localization and visualization.
-
 ## Technologies
 
 * ROS1 Noetic
