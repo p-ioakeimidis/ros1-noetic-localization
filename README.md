@@ -1,9 +1,9 @@
-<img width="1600" height="600" alt="my_global_path" src="https://github.com/user-attachments/assets/3bb26043-6604-4c67-9db7-9fa83bdb1e81" />
 # ROS1 Noetic EKF Localization for a Differential Drive Robot
 
 This project demonstrates **state estimation for a differential two-wheel (differential drive) mobile robot** using the **Extended Kalman Filter (EKF)** in **ROS1 Noetic**. The robot is simulated in Gazebo and visualized in RViz, with separate configurations for **local** and **global** localization.
 
 The primary goal of the project is to fuse multiple sources of information to produce a robust estimate of the robot's pose while navigating a known environment.
+<img width="1600" height="600" alt="my_global_path" src="https://github.com/user-attachments/assets/3bb26043-6604-4c67-9db7-9fa83bdb1e81" />
 
 ## Features
 
